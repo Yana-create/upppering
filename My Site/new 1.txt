@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ARTtime!</title>
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" type="image/x-icon" href="images/icon.png">
+	<link rel="stylesheet" href="dop.css" media="all">
+</head>
+<body>
+<script type="text/javascript">
+    fun myFan(){
+	var user_name = promt("Введіть ім'я"," ");
+	var my_age = promt("Введіть вік"," ");
+	if(my_age >18)
+	 {alert(user_name+"OK!")}
+	 else(my_age <18)
+	 {alert("Запитайся дозволу батьків.")}
+	}
+  </script>
+ </body>
+ </html>

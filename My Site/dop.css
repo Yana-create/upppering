@@ -1,0 +1,25 @@
+body{background: #FFDAB9 url(images/pink_rice.png); margin: 0; padding: 50px 0 20px 0;}
+     font: 16px/24px Arial, Tahoma, sans-serif;}
+	 a{text-decoration: none;}
+/*Структура сайта*/
+div.header{background: #FFC0CB;}
+div.mid{width: 1000px; margin: 0 auto;}
+div.footer{margin: 20px 0; text-align: center; text-transform: uppercase; color="#000000"}
+/*Заголовки сайта*/
+div.topmenu{float: center; height: 80px; line-height: 80px;}
+div.topmenu a{margin: 0 0 0 20px; color: #FA8072;}
+div.topmenu a:hover{color:#000000;}
+div.afisha {padding: 0 30px 0 30px;}
+div.afisha h3{font-size: 24px; font-weight: normal; text-align: center;}
+div.afisha h3{background:#FFA07A; border: 2px solid  #DC143C;}
+div.minmenu p{text-align: center;} a{font-size: 30px; color: #FA8072; font-weight:bold;
+    background: #DC143C; border: 2px solid #8B0000; padding: 5px 15 px;
+	border-radius: 3px; box-shadow: 2px 2px 7px -1px #777;}
+
+/*Головне меню*/
+.content{background: #F08080; border: 3px solid #FA8072; border-left: none; border-right:none;}
+
+/*Підвальчик*/
+.footer span {margin: 0 40px;}
+
+div.clear {clear: both;} font
